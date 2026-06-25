@@ -1,0 +1,8 @@
+enums_clientserver.proto
+steamdatagram_messages_auth.proto
+steamdatagram_messages_sdr.proto
+steammessages_base.proto
+steammessages_gamenetworkingui.proto
+steamnetworkingsockets_messages.proto
+steamnetworkingsockets_messages_certs.proto
+steamnetworkingsockets_messages_udp.proto
