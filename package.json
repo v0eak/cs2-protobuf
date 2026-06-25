@@ -1,6 +1,6 @@
 {
   "name": "cs2-protobuf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript Library for CS2 Protobuf Encoding & Decoding",
   "author": {
     "name": "v0eak"
